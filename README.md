@@ -1,2 +1,2 @@
-# lentawaf
+# Lenta WAF
 Мой самописный  фаервол 
